@@ -1,4 +1,4 @@
-# svelte-heatmap
+# Muxamadaminwebs
 
 [![Netlify](https://img.shields.io/netlify/4d4e781f-f953-4b8a-92c8-ad4ba986236e)](https://svelte-heatmap.netlify.app/)
 [![Build status](https://img.shields.io/github/workflow/status/scottbedard/svelte-heatmap/Test)](https://github.com/scottbedard/svelte-heatmap/actions)
