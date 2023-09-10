@@ -1,135 +1,24 @@
-# Muxamadaminwebs
+<h1 align="center">Hi 👋, I'm Muxammadamin</h1>
+<h3 align="center">A passionate Fullstack developer from Uzbekistan</h3>
 
-[![Netlify](https://img.shields.io/netlify/4d4e781f-f953-4b8a-92c8-ad4ba986236e)](https://svelte-heatmap.netlify.app/)
-[![Build status](https://img.shields.io/github/workflow/status/scottbedard/svelte-heatmap/Test)](https://github.com/Muxammadaminwebs/svelte-heatmap/actions)
-[![Dependencies](https://img.shields.io/david/scottbedard/svelte-heatmap)](https://david-dm.org/Muxammadaminwebs/svelte-heatmap)
-[![Dev dependencies](https://img.shields.io/david/dev/scottbedard/svelte-heatmap)](https://david-dm.org/Muxammadaminwebs/svelte-heatmap?type=dev)
-[![Size](https://img.shields.io/bundlephobia/minzip/svelte-heatmap?color=yellow&label=size)](https://bundlephobia.com/result?p=svelte-heatmap)
-[![NPM](https://img.shields.io/npm/v/svelte-heatmap)](https://www.npmjs.com/package/svelte-heatmap)
-[![License](https://img.shields.io/github/license/scottbedard/svelte-heatmap?color=blue)](https://github.com/Muxammadaminwebs/svelte-heatmap/blob/master/LICENSE)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muxammadaminwebs&label=Profile%20views&color=0e75b6&style=flat" alt="muxammadaminwebs" /> </p>
 
-A light weight and customizable version of GitHub's contribution graph.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muxammadaminwebs" alt="muxammadaminwebs" /></a> </p>
 
-[![Heatmap examples](https://user-images.githubusercontent.com/7980426/78958159-27d55280-7a9c-11ea-9b08-8b5d7df31d7a.png)](https://svelte-heatmap.netlify.app/)
+- 🔭 I’m currently working on **English Essential**
 
-## 📦 Installation
+- 👯 I’m looking to collaborate on [It academy](https://github.com/abduhamidbotirov/It_academy.git)
 
-The recommended way to install this package is through NPM.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muxammadamin-qobiljonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muxammadamin-qobiljonov" height="30" width="40" /></a>
+<a href="https://fb.com/muxammadamin-qobiljonv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muxammadamin-qobiljonv" height="30" width="40" /></a>
+<a href="https://instagram.com/muxammadaminqobiljonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muxammadaminqobiljonov" height="30" width="40" /></a>
+</p>
 
-```bash
-npm install svelte-heatmap
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Alternatively, you may access it via the CDN. When using the CDN, this package will be exposed globally as `SvelteHeatmap`.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muxammadaminwebs&show_icons=true&locale=en&layout=compact" alt="muxammadaminwebs" /></p>
 
-```html
-<script src="https://unpkg.com/svelte-heatmap"></script>
-```
-
-## 🚀 Basic usage
-
-To create a heatmap, pass `props` and a `target` to the `SvelteHeatmap` constructor.
-
-```js
-import SvelteHeatmap from 'svelte-heatmap';
-
-const heatmap = new SvelteHeatmap({
-    props: {
-        data: [
-            // ...
-        ],
-    },
-    target: '#some-container',
-});
-```
-
-To remove the component, call `$destroy`.
-
-```js
-heatmap.$destroy();
-```
-
-See the [Svelte documentation](https://svelte.dev/docs#Client-side_component_API) for more information. 
-
-## ⚙️ Options
-
-> **Note:** Date values for `data`, `startDate`, and `endDate` should be [JavaScript `Date` objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) objects, or a value compatible with the Date constructor.
-
-##### `allowOverflow`
-
-Renders cells that fall outside the `startDate` to `endDate` range. Defaults to `false`.
-
-##### `cellGap`
-
-Defines the space between cells.
-
-##### `cellRadius`
-
-Defines the radius of each cell. This should be a number relative to the `cellSize`, or a string representing a percentage such as `'50%'`.
-
-##### `cellSize`
-
-Defines the size of each cell.
-
-##### `colors`
-
-Array of CSS colors to use for the chart, ordered from lowest to highest. Default colors match GitHub's contribution graph with `['#c6e48b', '#7bc96f', '#239a3b', '#196127']`.
-
-##### `data`
-
-Array of objects containing the chart data. These objects should be in the shape of `{ date, value }`.
-
-##### `dayLabelWidth`
-
-Horizontal space to allocate for day labels. If this is `0`, day labels will not be rendered.
-
-##### `dayLabels`
-
-Array of strings to use for day labels. Defaults to `['', 'Mon', '', 'Web', '', 'Fri', '']`.
-
-##### `fontColor`
-
-Label font color. Defaults to `#333`.
-
-##### `fontFamily`
-
-Label font family. Defaults to `sans-serif`.
-
-##### `fontSize`
-
-Label font size. Defaults to `8`.
-
-##### `emptyColor`
-
-CSS color to use for cells with no value.
-
-##### `monthGap`
-
-Defines the space between months when `view` is set to `monthly`.
-
-##### `monthLabelHeight`
-
-Vertical space to allocate for month labels. If this is `0`, month labels will not be rendered.
-
-##### `monthLabels`
-
-Array of strings to use for month labels. Defaults to `['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']`.
-
-##### `startDate`
-
-Date object representing the first day of the graph. If omitted, this will default to the first day of the `month` or `year`, based on the current `view`.
-
-##### `endDate`
-
-Date object represending the last day of the graph. If omitted, this will default to the last day of the current `month` or `year`, depending on the current `view`.
-
-##### `view`
-
-Determines how the chart should be displayed. Supported values are `monthly` and `yearly`, defaults to `yearly`.
-
-## 📄 License
-
-[MIT](https://github.com/Muxammadaminwebs
-/svelte-heatmap/blob/master/LICENSE)
-
-Copyright (c) 2017-present, Scott Bedard
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muxammadaminwebs&show_icons=true&locale=en" alt="muxammadaminwebs" /></p>
