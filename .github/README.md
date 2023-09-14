@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm Muxammadaminwebs</h1>
 <h4 align="center">Full Stack developer</h1>
-  
+   
 # 💫 About Me: 
 <h3 align="center">A passionate Fullstack developer from Uzbekistan</h3>
  
